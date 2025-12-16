@@ -1,0 +1,10 @@
+﻿  DT_Reasoner.cpp
+C:\Dev\C++\Aeye Framework\CMP304\CMP304_Week2\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'DT_Reasoner.cpp')
+  
+  RBS_Reasoner.cpp
+C:\Dev\C++\Aeye Framework\CMP304\CMP304_Week2\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'RBS_Reasoner.cpp')
+  
+  Generating Code...
+  TBSGame.vcxproj -> C:\Dev\C++\Aeye Framework\CMP304\CMP304_Week2\TBSGame\x64\Debug\TBSGame.exe
